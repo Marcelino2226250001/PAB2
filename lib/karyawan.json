@@ -1,0 +1,23 @@
+[
+    {
+        "nama" : "Rio",
+        "umur" : 17 ,
+        "alamat" : {
+            "jalan" : "Jl. Jendral Sudirman No.2999",
+            "kota" : "Palembang",
+            "provinsi" : "Sumatra Selatan"
+        },
+        "hobi" : ["Training", "Meditasi"]
+    },
+
+    {
+        "nama" : "Rahmat",
+        "umur" : 17 ,
+        "alamat" : {
+            "jalan" : "Jl. Shibuya No. 10",
+            "kota" : "Shibuya",
+            "provinsi" : "Niigata"
+        },
+        "hobi" : ["Jalan", "Mensummon Mahoraga"]
+    }
+]
